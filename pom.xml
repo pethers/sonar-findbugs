@@ -51,7 +51,7 @@
     <jdk.min.version>1.8</jdk.min.version>
     <surefire.version>3.0.0-M5</surefire.version>
     <sonar.version>7.9</sonar.version>
-    <sonar-java.version>5.13.1.18282</sonar-java.version>
+    <sonar-java.version>6.12.0.24852</sonar-java.version>
     <sbcontrib.version>7.4.7</sbcontrib.version>
     <findsecbugs.version>1.10.1</findsecbugs.version>
 
